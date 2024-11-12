@@ -1,0 +1,166 @@
+{
+  "user": [
+    {
+      "id": "7a74",
+      "nome": "João",
+      "email": "swain@gmail.com"
+    },
+    {
+      "id": "5b96",
+      "nome": "Ben10",
+      "email": "olhaobahiano@gmail.com"
+    },
+    {
+      "id": "312b",
+      "nome": "ds",
+      "email": "dssds"
+    },
+    {
+      "id": "74ac",
+      "nome": "wesley",
+      "email": "testando@gmail.com"
+    }
+  ],
+  "emails": [
+    {
+      "titulo": "Alerta de segurança",
+      "descricao": "Clique aqui para verificar sua conta.",
+      "origem": "suporte@falso.com",
+      "data": "2024-11-01",
+      "id": "ccff"
+    },
+    {
+      "titulo": "Promoção Especial!",
+      "descricao": "Aproveite 50% de desconto em todos os itens.",
+      "origem": "promo@loja.com",
+      "data": "2024-11-02",
+      "id": "6cd8"
+    },
+    {
+      "titulo": "Atualização de Senha",
+      "descricao": "Clique para atualizar sua senha",
+      "origem": "seguranca@falso.com",
+      "data": "2024-11-03",
+      "id": "8c10"
+    },
+    {
+      "titulo": "Novo evento na sua cidade",
+      "descricao": "Participe do festival anual",
+      "origem": "eventos@local.com",
+      "data": "2024-11-04",
+      "id": "4507"
+    },
+    {
+      "titulo": "Fatura disponível",
+      "descricao": "Sua fatura do cartão está disponível",
+      "origem": "fatura@banco.com",
+      "data": "2024-11-05",
+      "id": "81af"
+    },
+    {
+      "titulo": "Acesse sua conta",
+      "descricao": "Clique aqui para acessar",
+      "origem": "conta@falso.com",
+      "data": "2024-11-06",
+      "id": "e6af"
+    },
+    {
+      "titulo": "Reunião agendada",
+      "descricao": "Lembrete: reunião de negócios na próxima semana",
+      "origem": "empresa@corporativo.com",
+      "data": "2024-11-07",
+      "id": "e12c"
+    },
+    {
+      "titulo": "Recebemos seu pagamento",
+      "descricao": "Seu pagamento foi confirmado.",
+      "origem": "pagamentos@empresa.com",
+      "data": "2024-11-08",
+      "id": "ff68"
+    },
+    {
+      "titulo": "Urgente: Suspensão da Conta",
+      "descricao": "Sua conta será suspensa, verifique agora",
+      "origem": "alerta@falso.com",
+      "data": "2024-11-09",
+      "id": "84f0"
+    },
+    {
+      "titulo": "Últimos dias para pagamento",
+      "descricao": "Realize o pagamento até o vencimento",
+      "origem": "financeiro@banco.com",
+      "data": "2024-11-10",
+      "id": "d8ad"
+    },
+    {
+      "titulo": "Atualização de Política",
+      "descricao": "Novas políticas de privacidade foram implementadas",
+      "origem": "noreply@empresa.com",
+      "data": "2024-11-11",
+      "id": "9687"
+    },
+    {
+      "titulo": "Confirme seu cadastro",
+      "descricao": "Clique para confirmar o cadastro",
+      "origem": "cadastro@falso.com",
+      "data": "2024-11-12",
+      "id": "645b"
+    },
+    {
+      "titulo": "Promoção Black Friday",
+      "descricao": "Descontos imperdíveis em diversos produtos",
+      "origem": "ofertas@loja.com",
+      "data": "2024-11-13",
+      "id": "8ac8"
+    },
+    {
+      "titulo": "Acesso ao sistema liberado",
+      "descricao": "Clique aqui para acessar sua conta",
+      "origem": "acesso@falso.com",
+      "data": "2024-11-14",
+      "id": "0a1a"
+    },
+    {
+      "titulo": "Pagamento confirmado",
+      "descricao": "Seu pagamento foi recebido com sucesso",
+      "origem": "financeiro@empresa.com",
+      "data": "2024-11-15",
+      "id": "f54f"
+    },
+    {
+      "titulo": "Convite para evento especial",
+      "descricao": "Você está convidado para nosso evento",
+      "origem": "eventos@empresa.com",
+      "data": "2024-11-16",
+      "id": "f6be"
+    },
+    {
+      "titulo": "Validação necessária",
+      "descricao": "Valide sua conta imediatamente",
+      "origem": "validacao@falso.com",
+      "data": "2024-11-17",
+      "id": "b5a1"
+    },
+    {
+      "titulo": "Saldo atualizado",
+      "descricao": "Seu saldo foi atualizado",
+      "origem": "banco@empresa.com",
+      "data": "2024-11-18",
+      "id": "efd1"
+    },
+    {
+      "titulo": "Desconto especial para você",
+      "descricao": "Aproveite este desconto exclusivo",
+      "origem": "marketing@empresa.com",
+      "data": "2024-11-19",
+      "id": "4c3d"
+    },
+    {
+      "titulo": "Verificação da Conta",
+      "descricao": "Acesse para verificar sua conta",
+      "origem": "verificacao@falso.com",
+      "data": "2024-11-20",
+      "id": "e950"
+    }
+  ]
+}
